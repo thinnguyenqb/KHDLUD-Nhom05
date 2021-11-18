@@ -11,7 +11,7 @@ Thông tin của các thành viên trong nhóm:
 | 1712391  | Trần Bảo Duy       | [duytran1999](https://github.com/duytran1999) |
 | 1612835  | Bùi Trọng Xuyến    | [btxuyenhcmus](https://github.com/btxuyenhcmus) |
 
-Trong đồ án này, nhóm tìm hiểu và cài đặt lại [một phương pháp giải quyết đã có]() (đứng thứ 458 trên private leaderboard) cho [bài toán]() trên Kaggle. 
+Trong đồ án này, nhóm tìm hiểu và cài đặt lại [một phương pháp giải quyết đã có]() (đứng thứ 458 trên private leaderboard) cho [bài toán](https://www.kaggle.com/c/m5-forecasting-accuracy/overview) trên Kaggle. 
 - Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link này]().
 
 - Kế hoạch phân chia công việc của nhóm: [Trello]()
