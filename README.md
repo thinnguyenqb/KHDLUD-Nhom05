@@ -12,6 +12,6 @@ Thông tin của các thành viên trong nhóm:
 | 1612835  | Bùi Trọng Xuyến    | [btxuyenhcmus](https://github.com/btxuyenhcmus) |
 
 Trong đồ án này, nhóm tìm hiểu và cài đặt lại [một phương pháp giải quyết đã có]() (đứng thứ 458 trên private leaderboard) cho [bài toán](https://www.kaggle.com/c/m5-forecasting-accuracy/overview) trên Kaggle. 
-- Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link này]().
+- Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link này](https://colab.research.google.com/github/thinnguyenqb/KHDLUD-Nhom05/blob/master/Report.ipynb).
 
-- Kế hoạch phân chia công việc của nhóm: [Trello]()
+- Kế hoạch phân chia công việc của nhóm: [Trello](https://trello.com/b/KXaa8Yzo/khoa-h%E1%BB%8Dc-d%E1%BB%AF-li%E1%BB%87u-%E1%BB%A9ng-d%E1%BB%A5ng)
